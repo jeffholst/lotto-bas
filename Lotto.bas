@@ -5,7 +5,7 @@
 500 ' Last Modified: December 1, 2021
 600 '
 700 ' Usefull commands
-800 ' load "lotot.bas"
+800 ' load "lotto.bas"
 900 ' save "lotto.bas",a
 1000 ' renun 100,100,100
 1100 '
